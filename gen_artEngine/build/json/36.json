@@ -1,0 +1,39 @@
+{
+  "name": "KiwiWorld #36",
+  "description": "Real Life robots in the metaverse",
+  "image": "ipfs://QmPFHQzHw8ftRYn3AFgSjeayYzBg7SVB6j78nGNZLRJkJh/36.png",
+  "dna": "c637736f9bb80fccf2720c35a2c65ecab7b09afa",
+  "edition": 36,
+  "date": 1642717815676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
