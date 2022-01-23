@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xccb63ff81d0c23a5decc1b1259f263367f847a7c",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xccb63ff81d0c23a5decc1b1259f263367f847a7c",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "KiwiWorld",
+  "SYMBOL": "kiBot",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.008,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kiwiworld",
+  "SHOW_BACKGROUND": true
+}
